@@ -1,8 +1,7 @@
 # Hi there, I'm Roie Golst!👋
 ## 🌟 About Me<img height="70" src="https://github.com/roieGolst/roieGolst/assets/102251357/d3d9e406-7a62-4735-8104-ce3f9b3ae7fb"> 
 
-I'm a passionate software developer with a knack for creating innovative solutions and a love for learning new technologies. I specialize in server-side development, architecture design, and delivering high-quality, scalable solutions. Proficient in TypeScript and NodeJS, I build robust systems with strong fundamentals.
-
+I’m a software developer who loves creating innovative solutions and learning new tech. I specialize in server-side development, architecture design, and making high-quality, scalable systems. Proficient in TypeScript and NodeJS, I focus on building strong, reliable systems.
 
 ## 🛠️ Skills and Technologies
 
