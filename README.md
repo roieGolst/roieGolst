@@ -35,7 +35,3 @@ Independently designed and implemented various data structures using TypeScript,
 ## 📊 GitHub Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roieGolst&layout=compact)
-
----
-
-⭐️ From [Roie Golst](https://github.com/roieGolst) 
