@@ -9,7 +9,7 @@ I'm a passionate software developer with a knack for creating innovative solutio
 
 
 
-## <img height="80" src="https://github.com/roieGolst/roieGolst/assets/102251357/20a95510-0afb-461d-831f-3c339f67097e">🛠️ Skills and Technologies
+## <img height="80" src="https://github.com/roieGolst/roieGolst/assets/102251357/20a95510-0afb-461d-831f-3c339f67097e">🛠️ Skills / Technologies
 
 - **Languages**: NodeJS, TypeScript, Python
 - **Backend**: Node.js, Express
@@ -25,7 +25,7 @@ A distributed end-to-end encrypted (E2EE) group chat protocol. This project is d
 Independently designed and implemented various data structures using TypeScript, including Binary Search Tree (BST), Map, Stack, Queue, and LinkedList. Leveraged design patterns such as Observer, Prototype, Memento, and Strategy
 
 
-## <img height="100" src="https://github.com/roieGolst/roieGolst/assets/102251357/d3c1f784-b6e6-4a95-8c65-6ae7da9503d9"> 🌱 I’m currently learning
+## <img height="90" src="https://github.com/roieGolst/roieGolst/assets/102251357/d3c1f784-b6e6-4a95-8c65-6ae7da9503d9"> 🌱 Currently learning
 - **Python**: I'm actively expanding my Python knowledge to become a more well-rounded backend developer.  I'm particularly interested in leveraging Python's principles to build robust and maintainable backend systems. Additionally, I'm eager to explore popular web development frameworks like Django or Flask to create dynamic web applications. The vast and powerful libraries within the ecosystem further excite me about the possibilities Python offers.  I'm confident that mastering Python will significantly enhance my backend development skillset.
 
 
