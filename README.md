@@ -18,11 +18,12 @@ I’m a software developer who loves creating innovative solutions and learning 
 
 ## 📂 Notable Projects
 
+### Trading-Automation (Python)
+Developed a robust, scalable trading platform supporting multiple trading accounts. The system leverages a worker-based
+architecture that communicates via a dedicated protocol, ensuring broad resilience and high reliability.
+
 ### [ECP](https://github.com/roieGolst/Encrypted-chat)
 A distributed end-to-end encrypted (E2EE) group chat protocol. This project is designed to ensure robust security using RSA, AES, and other advanced encryption algorithms. The primary goal is to provide secure, private communication between users without any intermediaries being able to decrypt the messages.
-
-### [Data-Structures](https://github.com/roieGolst/Data-Structures)
-Independently designed and implemented various data structures using TypeScript, including Binary Search Tree (BST), Map, Stack, Queue, and LinkedList. Leveraged design patterns such as Observer, Prototype, Memento, and Strategy.
 
 ## <img height="90" src="https://github.com/roieGolst/roieGolst/assets/102251357/d3c1f784-b6e6-4a95-8c65-6ae7da9503d9"> 🌱 Currently learning
 - **Python**: I'm actively expanding my Python knowledge to become a more well-rounded backend developer. I'm particularly interested in leveraging Python's principles to build robust and maintainable backend systems. Additionally, I'm eager to explore popular web development frameworks like FastAPI, Django or Flask to create dynamic web applications. The vast and powerful libraries within the ecosystem further excite me about the possibilities Python offers. I'm confident that mastering Python will significantly enhance my backend development skillset.
