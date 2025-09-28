@@ -19,7 +19,7 @@ I’m a backend-leaning software developer who loves creating innovative solutio
 
 ## Notable Projects
 
-### Trading-Automation (Python)
+### [Trading-Automation](https://github.com/roieGolst/Trading-Automation-Main)
 Built a robust, scalable trading platform supporting multiple brokerage accounts. The system uses a worker-based architecture with a dedicated messaging protocol to achieve resilience, reliability, and clear fault isolation.
 
 ### [ECP](https://github.com/roieGolst/Encrypted-chat)
@@ -35,5 +35,5 @@ A distributed end-to-end encrypted (E2EE) group chat protocol using RSA, AES, an
 - **LinkedIn**: [Roie Golst](https://www.linkedin.com/in/roie-golst/)
 
 ## GitHub Stats
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roieGolst&layout=compact)
+
