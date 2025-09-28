@@ -1,39 +1,39 @@
-# Hi there, I'm Roie Golst!👋
-## 🌟 About Me<img height="70" src="https://github.com/roieGolst/roieGolst/assets/102251357/d3d9e406-7a62-4735-8104-ce3f9b3ae7fb"> 
+# <img height="70" src="https://github.com/roieGolst/roieGolst/assets/102251357/d3d9e406-7a62-4735-8104-ce3f9b3ae7fb">  Hi there, I'm Roie Golst!
+## About Me
 
-I’m a software developer who loves creating innovative solutions and learning new tech. I specialize in server-side development, architecture design, and making high-quality, scalable systems. Proficient in TypeScript and NodeJS, I focus on building strong, reliable systems.
+I’m a backend-leaning software developer who loves creating innovative solutions and learning new tech. I specialize in server-side development, architecture design, and building high-quality, scalable systems. I work primarily with TypeScript/Node.js and Python, and I’m currently learning **C++** and **low-level programming** (memory management, concurrency, and OS internals).
 
-## 🛠️ Skills and Technologies
+## Skills and Technologies
 
-- **Languages**: TypeScript, NodeJS, Python
+- **Languages**: TypeScript, NodeJS, Python, C++
 - **Cloud**: AWS (EC2, ECS, ECR, SQS, Lambda, etc..), Terraform (Infrastructure as Code)
-- **Backend**: Express, FastAPI
+- **Backend**: Express, NestJS, FastAPI
 - **Databases**: MongoDB, MySQL, Redis
 - **Tools & Technologies**: Docker, RabbitMQ, Kafka, gRPC, JWT, ProtoBuf
 
 <code><img height="20" alt="typescript" src="https://github.com/roieGolst/roieGolst/assets/102251357/441c78c3-a091-4d64-bed8-16eba8f8beed"></code>
 <code><img height="20" alt="nodejs" src="https://github.com/roieGolst/roieGolst/assets/102251357/ab1eeb36-3a7d-40b1-a4d6-5e0f045d9b25"></code>
 <code><img height="20" alt="python" src="https://github.com/roieGolst/roieGolst/assets/102251357/41d72c7b-0838-4008-bbdb-90378c160564"></code>
+<code><img width="20" height="2051" alt="image" src="https://github.com/user-attachments/assets/f0161f7c-0388-4f77-8830-0e5bcfbef026" /></code>
 
 
-## 📂 Notable Projects
+## Notable Projects
 
 ### Trading-Automation (Python)
-Developed a robust, scalable trading platform supporting multiple trading accounts. The system leverages a worker-based
-architecture that communicates via a dedicated protocol, ensuring broad resilience and high reliability.
+Built a robust, scalable trading platform supporting multiple brokerage accounts. The system uses a worker-based architecture with a dedicated messaging protocol to achieve resilience, reliability, and clear fault isolation.
 
 ### [ECP](https://github.com/roieGolst/Encrypted-chat)
-A distributed end-to-end encrypted (E2EE) group chat protocol. This project is designed to ensure robust security using RSA, AES, and other advanced encryption algorithms. The primary goal is to provide secure, private communication between users without any intermediaries being able to decrypt the messages.
+A distributed end-to-end encrypted (E2EE) group chat protocol using RSA, AES, and complementary cryptographic primitives. Designed so that messages remain private to participants, with no intermediaries able to decrypt content.
 
-## <img height="90" src="https://github.com/roieGolst/roieGolst/assets/102251357/d3c1f784-b6e6-4a95-8c65-6ae7da9503d9"> 🌱 Currently learning
-- **Python**: I'm actively expanding my Python knowledge to become a more well-rounded backend developer. I'm particularly interested in leveraging Python's principles to build robust and maintainable backend systems. Additionally, I'm eager to explore popular web development frameworks like FastAPI, Django or Flask to create dynamic web applications. The vast and powerful libraries within the ecosystem further excite me about the possibilities Python offers. I'm confident that mastering Python will significantly enhance my backend development skillset.
+## Currently learning <img height="70" src="https://github.com/roieGolst/roieGolst/assets/102251357/d3c1f784-b6e6-4a95-8c65-6ae7da9503d9">
+- **C++**: Focusing on RAII, templates, STL, memory models, and performance profiling to strengthen my systems-level skills.
+- **Low-level programming**: Exploring memory management, concurrency, networking fundamentals, and OS internals to better understand how software runs under the hood.
 
-
-## 📫 Contact Me<img height="80" src="https://github.com/roieGolst/roieGolst/assets/102251357/756b58a7-23b1-4587-b957-f2f75d5767ab">
+## Contact Me<img height="80" src="https://github.com/roieGolst/roieGolst/assets/102251357/756b58a7-23b1-4587-b957-f2f75d5767ab">
 
 - **Email**: roiegol9@gmail.com
 - **LinkedIn**: [Roie Golst](https://www.linkedin.com/in/roie-golst/)
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roieGolst&layout=compact)
