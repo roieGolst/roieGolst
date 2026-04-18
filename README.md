@@ -14,7 +14,7 @@ I’m a backend-leaning software developer who loves creating innovative solutio
 <code><img height="20" alt="typescript" src="https://github.com/roieGolst/roieGolst/assets/102251357/441c78c3-a091-4d64-bed8-16eba8f8beed"></code>
 <code><img height="20" alt="nodejs" src="https://github.com/roieGolst/roieGolst/assets/102251357/ab1eeb36-3a7d-40b1-a4d6-5e0f045d9b25"></code>
 <code><img height="20" alt="python" src="https://github.com/roieGolst/roieGolst/assets/102251357/41d72c7b-0838-4008-bbdb-90378c160564"></code>
-<code><img width="20" height="2051" alt="image" src="https://github.com/user-attachments/assets/f0161f7c-0388-4f77-8830-0e5bcfbef026" /></code>
+<code><img height="20" alt="c++" src="https://github.com/user-attachments/assets/f0161f7c-0388-4f77-8830-0e5bcfbef026" /></code>
 
 
 ## Notable Projects
