@@ -35,5 +35,5 @@ A distributed end-to-end encrypted (E2EE) group chat protocol using RSA, AES, an
 - **LinkedIn**: [Roie Golst](https://www.linkedin.com/in/roie-golst/)
 
 ## GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roieGolst&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roieGolst)](https://github.com/anuraghazra/github-readme-stats)
 
